@@ -1,4 +1,4 @@
----
+HUAWEI mate 10 lite ---
 manufacturer:
     - huawei
 
