@@ -1,6 +1,6 @@
 ---
 manufacturer:
-    - huawei
+    - huawei mate 10 lite 
 
 ---
 
